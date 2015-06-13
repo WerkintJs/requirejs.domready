@@ -1,9 +1,7 @@
 {
-  "overrides":{
-    "requirejs-domready": {
-      "main": [
-        "domReady.js"
-      ]
-    }
+  "requirejs-domready": {
+    "main": [
+      "domReady.js"
+    ]
   }
 }
